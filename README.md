@@ -4,6 +4,8 @@ Moduł PrestaShop 1.6.1–8.x (PHP ≥ 7.3), który łączy sklep z **Subiektem 
 
 **To wersja demo.** Moduł działa w całości: konfiguracja, kolejka zadań, panele w zamówieniu, kliencie i produkcie oraz cron. Agent demo łączy się ze sklepem, odpowiada na „Ping”, pobiera z Subiekta formy płatności i cechy towarów i aktualizuje się przyciskiem z panelu. Pozostałe zadania (kontrahenci, towary, stany, ceny zakupu, dokumenty i PDF) kończą się komunikatem o pełnej wersji i niczego nie zmieniają w Subiekcie. Kontakt w sprawie pełnej wersji: https://www.infinityweb.pl/oferta/moduly-prestashop, biuro@infinityweb.pl
 
+Opis modułu z przykładami użycia: [Integracja PrestaShop z Subiektem GT bez pośredników](https://www.infinityweb.pl/posts/integracja-prestashop-subiekt-gt?utm_source=github&utm_medium=readme&utm_campaign=infinitysubiekt)
+
 ### [⬇ Pobierz demo (ZIP do wgrania w PrestaShop)](https://github.com/infinitywebpl/infinitysubiekt/releases/latest)
 
 W wydaniu pobierz plik `infinitysubiekt-<wersja>-demo.zip`, a nie „Source code”: tylko on ma katalog, który PrestaShop zainstaluje.
